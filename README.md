@@ -11,7 +11,7 @@
 
 ## 📘 Overview
 
-This repository contains all the tasks and deliverables completed during the **8-week Cloud Computing Internship** at **CODTECH IT SOLUTIONS PVT. LTD**. The internship focused on gaining **hands-on experience** in AWS cloud services, cloud architecture design, monitoring, and security implementation, aligned with real-world industry expectations.
+This repository contains all the tasks and deliverables for the Cloud Computing Internship at CODTECH IT SOLUTIONS PVT. LTD, completed by Krushnakant Sonawane (Intern ID: CTO8DLD959). The tasks include setting up cloud storage, monitoring cloud applications, designing multi-cloud architectures, and implementing cloud security. The internship spanned 8 weeks from May 20th, 2025, to July 20th, 2025, focusing on practical learning and skill development in cloud computing technologies.
 
 ---
 
